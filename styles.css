@@ -1,8 +1,12 @@
 body {
-    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f8f8;
+    background-image: url('images/background-photo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white; /* Adjust text color for readability */
 }
 
 header {
